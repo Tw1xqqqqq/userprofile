@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="name">Имя</string>
+    <string name="age">Возраст: %d</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="news">Хочу получать новости</string>
+    <string name="send">Отправить</string>
+    <string name="enter_name">Введите имя</string>
+</resources>
